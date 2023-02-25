@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body {
+    background-image: url('svet-fon-oboi.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family: arial;
+    }
+
+    input[type='text'] {
+
+        height: 60px;
+        width: 290px;
+        margin-top: 20px;
+        margin-right: -10px;
+        margin-left: 22px;
+        margin-bottom: 0px;
+       position: relative;
+       text-align: right;
+       font-size: 20px;
+       border: 2px solid rgba(91, 60, 126, 0.76);
+       display: flex;
+       -webkit-text-fill-color: white;
+       
+       
+                    }
+    #btn {                
+                    border-bottom: #e44d8c;
+    }
+    
+    input[type=button] {
+    
+       
+       
+       border-radius: .10em;
+       box-shadow: -3px -3px 7px #e5eef373,
+                   2px 2px 5px rgba(227, 243, 247, 0.288);
+       padding: 25px 28px;
+       width:80px;
+       padding: 1px;
+       margin: 1px 0px;
+       position: relative;
+       left: 25px;
+       top: 10px;
+       height: 60px;
+       cursor: pointer;
+       font-size: 18px;
+       transition: 0.5s;
+       background-color: #0c243f;
+       border-radius: 6px;
+       color: white;
+       border: #e5e5e5;
+       border-width: 10px;
+       cursor:pointer;
+    
+    }
+    
+    h1{
+        font-style: italic;
+        font-size: 40px;
+        border: #c1c1c1;
+        color: white;
+        margin-left: 40px;
+    }
